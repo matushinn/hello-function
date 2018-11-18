@@ -9,4 +9,4 @@ def warikann(amount, number_of_people):
 
 warikann(1500, 3)
 warikann(2000, 3)
-warikann(3647, 3)
+warikann(3647, 4)
